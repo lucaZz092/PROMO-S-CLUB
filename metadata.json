@@ -1,0 +1,6 @@
+{
+  "name": "PromoRadar: Curadoria & Histórico de Ofertas",
+  "description": "Curadoria inteligente de promoções e cupons com rastreamento em tempo real, validação de histórico de preços, alertas push e métricas de economia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "PromoRadar: Radar de Ofertas Amazon",
+  "short_name": "PromoRadar",
+  "description": "Curadoria inteligente de promoções e cupons da Amazon Brasil com alertas de queda de preço no sistema operacional.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#f59e0b",
+  "background_color": "#0a0a0a",
+  "categories": ["shopping", "finance", "utilities"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
